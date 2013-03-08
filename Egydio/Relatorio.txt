@@ -1,0 +1,25 @@
+Corrente Eletrica:
+Antes da corrente eletrica chegar até as casas, existe varios processos
+para diminuir a sua tensão. Alias, depois que é gerada, sua tensão é em
+torno de 300 mil volts. O que torna impossivel de se usar em uma rede 
+domestica. Entao, existem 
+
+Bit
+Sinal eletrico que só possui 2 opções. É booleano,ou seja,0 ou 1.
+Pode ser chamado de Chave. 
+
+O computador so entende binario. Então, tudo que ele for fazer sera feito
+atraves de 0 e 1. Ele nao entende um numero 5 por exemplo.
+O processador(cpu) é o responsavel que controla tudo no computador.
+O computador coloca um endereço para cada equipamento, perifico encaixado.
+Ele realiza apenas uma operação por vez, porem, é tao rápido que da a 
+impressão que esta fazendo varias coisas ao mesmo tempo.
+
+Transistor:
+
+Um microprocessador possui milhares de transistor.
+
+
+
+512 256 128 64 32 16 8 4 2 1
+ 0   0   0   0  0  0 0 1 0 1

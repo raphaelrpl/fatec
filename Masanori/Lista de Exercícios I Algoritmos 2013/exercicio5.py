@@ -1,0 +1,6 @@
+mercadoria = input('Informe a mercadoria: ')
+preco = float(input('Informe o preço: R$'))
+desconto = float(input('Informe o percentual de desconto: '))
+total_desconto = preco*(desconto/100)
+print('\nValor do desconto: R$%.2f' % total_desconto)
+print('\nValor da mercadoria: R$%.2f' % (preco-total_desconto))
